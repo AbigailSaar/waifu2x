@@ -6,7 +6,7 @@ Demo-Application can be found at http://waifu2x.udp.jp/ .
 
 ## Summary
 
-Click to see the slide show.
+Click to see the slide show. More moving documentation can be viewed <a href="http://instant-moving-quote.com/">here</a>
 
 ![slide](https://raw.githubusercontent.com/nagadomi/waifu2x/master/images/slide.png)
 
